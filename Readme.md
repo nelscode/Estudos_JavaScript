@@ -23,7 +23,6 @@ Cada pasta contém um conjunto de códigos que podem ser testados individualment
    git clone https://github.com/seu_usuario/estudos-javascript.git
 
 
-```markdown
 ### Objetivo do Repositório
 
 Este repositório serve como um **registro de aprendizado pessoal**. Cada teste de código reflete uma fase ou conceito que eu explorei enquanto desenvolvia minhas habilidades em JavaScript. A ideia é consolidar os aprendizados ao realizar testes e pequenos projetos práticos, com o intuito de aprofundar meu conhecimento na linguagem.
